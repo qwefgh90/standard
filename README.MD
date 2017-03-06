@@ -1,3 +1,1 @@
-# Public standards
-
-http://standards.iso.org/ittf/PubliclyAvailableStandards/
+- **Public standards.** http://standards.iso.org/ittf/PubliclyAvailableStandards/
